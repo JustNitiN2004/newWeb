@@ -1,0 +1,14 @@
+.maincontainer{
+    background-color: rgb(232, 221, 221);
+    border: 3px solid rgb(224, 31, 31);
+}
+
+nav{
+    display: flex;
+    margin-left:12px ;
+    padding: 12px;
+}
+
+a{
+    margin-left: 22px;
+}
